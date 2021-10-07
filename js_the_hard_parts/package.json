@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "test": "mocha *.js"
+    },
+    "dependencies": {
+        "assert": "^2.0.0",
+        "mocha": "^8.2.1"
+    }
+}
